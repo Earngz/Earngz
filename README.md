@@ -1,15 +1,15 @@
 ![banner](https://lh3.googleusercontent.com/AvHJ671iyJPXIKcFGIisBKVqrwB81imAH-hlujt8Za6DiIEze958PIJyWw_dQto3d2bIL3f4Det2961X9S-oimgfeeRoSrbOAUCUK36-O6ZMIFQ1NLjEO8-YmglVknAkLAkyYmMtF9g9k79zDFZZ5gb286lPeEWEZPGaIHqR7nyW1qYlvKkB8H36C7jfMS1ufkUlnh-jetVGHEOpCzzXxV7x7tQOIfQlamrv8dUJ9j5Y_LcB4U3FBTcgCcfISAIX6nusIq0d2Yelw_sN3jMLiT7yPIb5mJfJ7OpkE6WQ4EZIhvuHOpXQqRE5Q63pkIldzeL6HVbVWGNcNrwtaFPXGOetfHzKyPZfs1lGKSU6tcewVtG9reckgKJ7a5_-sDrt7LUFNzT_8_O2MmRLPNMdxxM_-aDlPz-o88QVJuVIEhHJgcmjBSkOO7VG7IZA6Hbt8bWl-DK8F9rzs02Zh4JT1w2UqZNSuL-ZTcljQpUGxl31JmCAO03UYN-uz8i4mp-MZLvk5YXZsnOsqnpYI8sJNWLXiz9fdvdTxTTFloGkREEzFVbsQ5vEA20YwHvz0zX0rMG8eZ1ufc_vayKspAptZPjBfapM2KETkKBbw21JD4pXU6e7_3XFwkaqzsLo_2VA9eDxf8LWIDZmq61VQYMflbaZKebZiZo9NFgV7nILORILPiSNgImKrCOdwRhugfziRS4jWy2VnMix8fw-oZkn8UE=w1400-h425-no?authuser=0)
 <h2 align="center">Hi 👋, I'm Panuchada La-ongpanich</h2>
-<h3 align="center"> 🧐 Glad to see you here! </h3>
+<h3 align="center"> :blush: Glad to see you here! </h3>
 <p>I'm a final year student of a Bachelor's degree program in Management Information Systems. Majoring in software development. I'm a passionate learner that is constantly willing to learn new technologies and work on front-end development.</p>
-
-<h3 align="center"> 🧐 More About Me: </h3>
+<br>
+<h3 align="center"> 🙎‍♀️ More About Me: :star:</h3>
 <p align="center">- 🌱 Currently learning on Web Application and 3D digital art</p>
 <p align="center">- 👨🏻‍💻 Currently working on senior project | Microsoft Power Automation </p>
-<p align="center">- 🎷 Intersting in Book, Education, Technology, Business and Startup </p>
-<p align="center">- 💬 &nbsp; Fun Fact: I love to play pool & snooker /new for this</p>
-
-<h3 align="center"> Languages & Tools: </h3>
+<p align="center">- :hearts: Intersting in Book, Education, Technology, Business and Startup </p>
+<p align="center">- ⚡ Fun Fact: I love to play pool & snooker :8ball:</p>
+<br>
+<h3 align="center"> Languages & Tools :hammer_and_wrench:</h3>
 <p align="center">
     <a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="35"></a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="35"></a>
