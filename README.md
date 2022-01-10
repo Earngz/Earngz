@@ -1,16 +1,13 @@
-![banner](https://lh3.googleusercontent.com/55O1FT6QiiFdlGySzUJd77-ydTcScwze_AysyopxrzHmiTKZLfFpsU-jmk0lhjvOIp7-W6HBgYA_yNYH41ltLoQ5RXAyH2zuFo50tUcNmIVhFLS5LMBJkw4CclP2Ituz4oGa6zAME8OipGSufqgl7lF2H0_SWJT35PkE1C493jSTdcksEcMfh12PsuGVSdzmvEt8E-ud9wqWE1zfJex8R2aoCDeEOrdDE7MBY3RtzmGOul8N9WItHBiax-jrtfyiOB4YnrLod8zkaixsBLKPPclmrVXRBTWlkwK-9BrPkxaY_YcpSjnGC2EKmsj7mmz__4p7HQ7JYdwhAs57WITfbCQwL3roeIJ5dve2r0o0U6nFziKG6L4JedacTm-oLdMYCW1VfBoWRa17fLnoPi9WsqbuZ6D5rzlCLNomOrqlEXe9CFIVyQRJ_AaKFMEniJWzhZuQJrmW_zjJUWuj_FYBMNzJ49ji2ZKM3Gxtf3caCt7uTfalaHsTTki9OJ01V2bSqrOru2BRdFD7HveNN-NWWcDRVRsjTHatFch_lf3-YCUtycz2d_LVI4V_E5_QrIpGYhEwpWgerOp3EcvcSLmYgS8Sxef6RRWxG0eaUsUNXRF-ltUt6K8p2ajGIHvUK8iHsPatDLmEzUoazosNw5UIlX7J6ecQ3DJbeoAo5487ezdE2dR9vGU2sKIOBV8sfSJECniGMAZMxgGr8xXDyZtf4V8=w1400-h425-no?authuser=0)
+![banner](https://lh3.googleusercontent.com/AvHJ671iyJPXIKcFGIisBKVqrwB81imAH-hlujt8Za6DiIEze958PIJyWw_dQto3d2bIL3f4Det2961X9S-oimgfeeRoSrbOAUCUK36-O6ZMIFQ1NLjEO8-YmglVknAkLAkyYmMtF9g9k79zDFZZ5gb286lPeEWEZPGaIHqR7nyW1qYlvKkB8H36C7jfMS1ufkUlnh-jetVGHEOpCzzXxV7x7tQOIfQlamrv8dUJ9j5Y_LcB4U3FBTcgCcfISAIX6nusIq0d2Yelw_sN3jMLiT7yPIb5mJfJ7OpkE6WQ4EZIhvuHOpXQqRE5Q63pkIldzeL6HVbVWGNcNrwtaFPXGOetfHzKyPZfs1lGKSU6tcewVtG9reckgKJ7a5_-sDrt7LUFNzT_8_O2MmRLPNMdxxM_-aDlPz-o88QVJuVIEhHJgcmjBSkOO7VG7IZA6Hbt8bWl-DK8F9rzs02Zh4JT1w2UqZNSuL-ZTcljQpUGxl31JmCAO03UYN-uz8i4mp-MZLvk5YXZsnOsqnpYI8sJNWLXiz9fdvdTxTTFloGkREEzFVbsQ5vEA20YwHvz0zX0rMG8eZ1ufc_vayKspAptZPjBfapM2KETkKBbw21JD4pXU6e7_3XFwkaqzsLo_2VA9eDxf8LWIDZmq61VQYMflbaZKebZiZo9NFgV7nILORILPiSNgImKrCOdwRhugfziRS4jWy2VnMix8fw-oZkn8UE=w1400-h425-no?authuser=0)
 <h2 align="center">Hi 👋, I'm Panuchada La-ongpanich</h2>
 <h3 align="center"> 🧐 Glad to see you here! </h3>
 <p>I'm a final year student of a Bachelor's degree program in Management Information Systems. Majoring in software development. I'm a passionate learner that is constantly willing to learn new technologies and work on front-end development.</p>
 
 <h3 align="center"> 🧐 More About Me: </h3>
-<p align="center">- 🤝 &nbsp; ...</p>
-<p align="center">- 🌱 &nbsp; ...</p>
-<p align="center">- 👨🏻‍💻 &nbsp; ...</p>
-<p align="center">- 💬 &nbsp; ...</p>
-<p align="center">- 📫 &nbsp; ...</p>
-<p align="center">- 🎷 &nbsp; ...</p>
-<p align="center">- 📝 &nbsp; ...</p>
+<p align="center">- 🌱 Currently learning on Web Application and 3D digital art</p>
+<p align="center">- 👨🏻‍💻 Currently working on senior project | Microsoft Power Automation </p>
+<p align="center">- 🎷 Intersting in Book, Education, Technology, Business and Startup </p>
+<p align="center">- 💬 &nbsp; Fun Fact: I love to play pool & snooker /new for this</p>
 
 <h3 align="center"> Languages & Tools: </h3>
 <p align="center">
@@ -22,7 +19,7 @@
     <a href="https://www.python.org/"><img alt="Python" title="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" height="35"></a>
     <a href="https://dart.dev/"><img alt="Dart" title="Dart" src="https://miro.medium.com/max/1080/1*82SBTsnSnKkXY2yCzEQtIw.png" height="35"></a>
     <a><img alt="Flutter" title="Flutter" src="https://www.codemobiles.co.th/online/images/course_shortcut_flutter.png" height="35"></a>
-    <br>
+    <br><br>
     <a href="https://wordpress.com/"><img alt="WordPress" title="WordPress" src="https://phrachai.net/Picture/Wordpress_logo_8.png" height="35"></a>
     <a><img alt="Asp.Net Core" title="Asp.Net Core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" height="35"></a>
     <a href="https://aws.amazon.com/th/"><img alt="AWS" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="35"></a>
